@@ -1,9 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
 import { lightColor } from '../utilis/constants';
-import GradeApproveImg from '../images/grade/done.svg';
-import GradeAImg from '../images/grade/a.svg';
-import GradeBImg from '../images/grade/b.svg';
 
 const GradeBlockContainer = styled.div`
     display: flex;

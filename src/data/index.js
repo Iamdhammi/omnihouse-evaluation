@@ -133,7 +133,7 @@ export const reportData = [
                 grade: "Pass"
             },
             {
-                image: GradeFImg,
+                image: GradeXImg,
                 grade: "Fail"
             },
             {
@@ -162,15 +162,15 @@ export const reportData = [
         gradeText: "The Affordability Rating is based off the renters Monthly Income to Rental Amount Ratio.",
         grades: [
             {
-                image: GradeApproveImg,
+                image: GradeAImg,
                 grade: "Excellent"
             },
             {
-                image: GradeAImg,
+                image: GradeBImg,
                 grade: "Strong"
             },
             {
-                image: GradeBImg,
+                image: GradeCImg,
                 grade: "Weak"
             },
             {
@@ -203,15 +203,15 @@ export const reportData = [
         gradeText: "The Spender Category is based off the renters Monthly Income and Expenses. Note: Any outgoing amount from the bank account is classed as an expense.",
         grades: [
             {
-                image: GradeApproveImg,
+                image: GradeAImg,
                 grade: "Low Spender"
             },
             {
-                image: GradeAImg,
+                image: GradeBImg,
                 grade: "Average Spender"
             },
             {
-                image: GradeBImg,
+                image: GradeCImg,
                 grade: "High Spender"
             },
             {
@@ -244,15 +244,15 @@ export const reportData = [
         gradeText: "Projected Affordability is based off the renters previous income data trend.",
         grades: [
             {
-                image: GradeApproveImg,
+                image: GradeAImg,
                 grade: "Excellent"
             },
             {
-                image: GradeAImg,
+                image: GradeBImg,
                 grade: "Strong"
             },
             {
-                image: GradeBImg,
+                image: GradeCImg,
                 grade: "Weak"
             },
             {

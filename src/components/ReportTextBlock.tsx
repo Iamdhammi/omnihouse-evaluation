@@ -129,7 +129,7 @@ const ReportTextBlock: React.FC<Props> = ({ data, type}) => {
                                 </Col>
                             )
                         default:
-                            break;
+                            return null;
                     }
                 })
             }
